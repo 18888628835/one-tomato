@@ -37,3 +37,34 @@
 
 11.未完待续
 
+## 首页
+
+![image](https://user-images.githubusercontent.com/53749772/107752753-229b0100-6d5a-11eb-8770-51251a846fd4.png)
+
+## 未登录用户信息页
+
+![image](https://user-images.githubusercontent.com/53749772/107752823-38a8c180-6d5a-11eb-906d-55bfc0490d1c.png)
+
+## 登录页
+
+![image](https://user-images.githubusercontent.com/53749772/107752863-46f6dd80-6d5a-11eb-8b7b-d47add463013.png)
+
+## 用户信息页
+
+![image](https://user-images.githubusercontent.com/53749772/107752932-5d9d3480-6d5a-11eb-8136-ae797c62fafc.png)
+
+## 视频页
+
+![image](https://user-images.githubusercontent.com/53749772/107753008-7574b880-6d5a-11eb-8b61-b1255ef93d6f.png)
+
+支持上拉刷新,下拉加载更多,视频资源转图片资源优化,记录观看视频时长,自动播放等
+
+## 每日推荐
+
+![image](https://user-images.githubusercontent.com/53749772/107753166-b1a81900-6d5a-11eb-9257-e674046302b1.png)
+
+## 歌曲播放
+
+![image](https://user-images.githubusercontent.com/53749772/107753306-def4c700-6d5a-11eb-8fa4-83171836036a.png)
+
+上一首,下一首,暂停等
