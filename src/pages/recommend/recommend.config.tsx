@@ -1,0 +1,4 @@
+export default {
+  navigationBarTitleText: "每日推荐",
+  navigationBarBackgroundColor: "#91cdf6",
+};
